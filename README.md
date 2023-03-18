@@ -21,13 +21,13 @@ Binary classification technique using python and DecisionTreeClassifier
 --> How to use the notebooks:
 
   Following libraries /packages are used to build the models and EDA
-    pandas==1.3.3
-    numpy==1.21.2
-    seaborn==0.11.2
-    matplotlib==3.4.3
-    scikit-learn==0.24.2
-    imbalanced-learn==0.8.1
-    xgboost==1.4.2
+    * pandas==1.3.3
+    * numpy==1.21.2
+    * seaborn==0.11.2
+    * matplotlib==3.4.3
+    * scikit-learn==0.24.2
+    * imbalanced-learn==0.8.1
+    * xgboost==1.4.2
     
     You can make a requirement.txt file and save it for reference in your python environment.
  
